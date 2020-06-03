@@ -5,9 +5,9 @@ Android：Android向けのUnityプロジェクト
 ＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝  
 ○パッケージ構成  
 Assets/  
-&nbsp;&nbsp;&nbsp;|  
+&nbsp;&nbsp;&nbsp;|－PlayServicesResolver（Android系のAPI）
 &nbsp;&nbsp;&nbsp;|－Hologla（HologlaSDK）  
-&nbsp;&nbsp;&nbsp;|－UnityARKitPlugin（ARKit）  
+&nbsp;&nbsp;&nbsp;|－UnityARKitPlugin（ARKit）or GoogleARCore（ARCore）  
 &nbsp;&nbsp;&nbsp;|－Project/  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|－Animations  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|－Audios  
