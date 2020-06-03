@@ -5,15 +5,15 @@ Android：Android向けのUnityプロジェクト
 ＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝  
 ○パッケージ構成  
 Assets/  
-   |  
-   |－Hologla（HologlaSDK）  
-   |－UnityARKitPlugin（ARKit）  
-   |－Project/  
-          |－Animations  
-          |－Audios  
-          |－Images  
-          |－Materials  
-          |－Prefabs  
-          |－Scenes  
-          |－Scripts  
-          |－Textures  
+&nbsp;&nbsp;&nbsp;|  
+&nbsp;&nbsp;&nbsp;|－Hologla（HologlaSDK）  
+&nbsp;&nbsp;&nbsp;|－UnityARKitPlugin（ARKit）  
+&nbsp;&nbsp;&nbsp;|－Project/  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|－Animations  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|－Audios  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|－Images  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|－Materials  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|－Prefabs  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|－Scenes  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|－Scripts  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|－Textures  
